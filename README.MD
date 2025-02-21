@@ -15,7 +15,7 @@ To run this project, install the required dependencies using:
 pip install -r requirements.txt
 ```
 ## Experiments
-Classification Approach
+- **Classification Approach
 ![plot](images/cm.png)
-Regression Approach
+- **Regression Approach
 ![plot](images/regression.png)
