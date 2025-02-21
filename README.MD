@@ -13,6 +13,7 @@ This project focuses on building Random Forest model for predicting Close Price 
 To run this project, install the required dependencies using:
 ```bash
 pip install -r requirements.txt
+```
 ## Experiments
 ![plot](images/cm.png)
 ![plot](images/regression.png)
